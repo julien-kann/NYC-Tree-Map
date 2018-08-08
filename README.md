@@ -4,4 +4,4 @@ This repository is an overview of the trees mapped to new york city. All data wa
 The notebook includes code that creates interactive bokeh plots.
 
 
-![alt text](https://github.com/julien-kann/NYC-Tree-Map/blob/master/bokeh_plot.png)
+![alt text](https://github.com/julien-kann/NYC-Tree-Map/blob/master/Trees.png)
