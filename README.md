@@ -7,5 +7,5 @@ Neighborhood Data: https://data.cityofnewyork.us/api/geospatial/cpf4-rkhq?method
 
 The notebook includes code that creates interactive bokeh plots.
 
-
+This plot is based off trees per square block in each nyc neighborhood.
 ![alt text](https://github.com/julien-kann/NYC-Tree-Map/blob/master/Trees.png)
